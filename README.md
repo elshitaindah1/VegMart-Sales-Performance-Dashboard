@@ -26,6 +26,8 @@ Project ini bertujuan untuk mengolah data transaksi menjadi dashboard penjualan 
 
 Dataset terdiri dari **2.000 transaksi penjualan** dengan periode Januari–Desember 2025.
 
+![Data Preview](screenshots/data_raw.png)
+
 Beberapa informasi utama dalam dataset meliputi:
 
 * Order ID
@@ -62,6 +64,9 @@ Tahapan pengolahan data meliputi:
 ## Analysis Method
 
 Analisis dilakukan menggunakan **Pivot Table dan Pivot Chart** untuk menghasilkan beberapa metrik dan perspektif penjualan, yaitu:
+
+![Pivot1](screenshots/pivot_analysis_1.png)
+![Pivot2](screenshots/pivot_analysis_2.png)
 
 * Total Revenue
 * Total Order
