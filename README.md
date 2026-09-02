@@ -78,7 +78,7 @@ Analisis dilakukan menggunakan **Pivot Table dan Pivot Chart** untuk menghasilka
 ## Dashboard
 
 Dashboard digunakan untuk memberikan ringkasan performa penjualan dalam satu tampilan sehingga informasi utama dapat dipantau dengan lebih cepat.
-
+![VegMart Sales Dashboard](screenshots/dashboard.png)
 Dashboard mencakup indikator dan visualisasi mengenai:
 
 * Total Revenue
@@ -143,8 +143,9 @@ VegMart-Sales-Dashboard/
 │
 └── screenshots/
     ├── dashboard.png
-    ├── raw-data.png
-    └── pivot-analysis.png
+    ├── raw_data.png
+    └── pivot_analysis_1.png
+    └── pivot_analysis_2.png
 ```
 
 ## Limitations & Future Improvement
